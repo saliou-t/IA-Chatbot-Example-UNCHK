@@ -1,0 +1,55 @@
+[
+  {
+    "questions": [
+      "Qu'est-ce que l'UVS ?",
+      "C'est quoi UVS ?",
+      "Peux-tu me parler de l'UVS ?"
+    ],
+    "answer": "L'Université Virtuelle du Sénégal est une université publique d'enseignement à distance créée en 2013."
+  },
+  {
+    "questions": [
+      "En quelle année l'UVS a été créée ?",
+      "Quand a été fondée l'UVS ?",
+      "C'est quoi l'année de création de l'UVS ?",
+      "Depuis quand l'UVS existe ?",
+      "année de création",
+      "année de creation?",
+      "quelle est l'année de création?",
+      "date de création uvs",
+      "uvs a été créée quand ?"
+    ],
+    "answer": "L'Université Virtuelle du Sénégal (UVS) a été créée en 2013."
+  },
+  {
+    "questions": [
+      "Comment voir ses notes ?",
+      "Où consulter mes résultats UVS ?",
+      "Comment accéder à mes bulletins ?"
+    ],
+    "answer": "Les notes sont disponibles sur l'ENT de l'UVS, dans la rubrique 'Résultats'."
+  },
+  {
+    "questions": [
+      "Combien d'étudiants sont inscrits à l'UVS ?",
+      "Quel est le nombre d'étudiants à l'UVS ?"
+    ],
+    "answer": "L'UVS compte plus de 50 000 étudiants répartis dans tout le Sénégal."
+  },
+  {
+    "questions": [
+      "Quelles sont les filières disponibles ?",
+      "Liste des filières UVS ?",
+      "Quels parcours propose l'UVS ?"
+    ],
+    "answer": "Les filières incluent Informatique, Droit, Economie, Sciences de l'éducation, etc."
+  },
+  {
+    "questions": [
+      "Quels sont les niveaux d'étude à l'UVS ?",
+      "Quels diplômes propose l'UVS ?",
+      "Quelles sont les étapes d'études à l'UVS ?"
+    ],
+    "answer": "L'UVS propose des parcours Licence, Master, et bientôt Doctorat."
+  }
+]
